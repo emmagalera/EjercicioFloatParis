@@ -8,6 +8,12 @@ img{
      
 
 }
+.Imagen1{
+    float: left;
+}
+.Imagen1.1{
+    float: right;
+}
 .caja2{
 
 }
