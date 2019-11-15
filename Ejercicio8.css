@@ -1,18 +1,21 @@
 h1{
    size: 30px;
 }
+
 img{
     border: 2px solid orange;
 }
-.caja1{
+.caja1 {
      
 
 }
-.Imagen1{
+#Imagen1{
     float: left;
+    margin-left: 100pxpx; 
 }
-.Imagen1.1{
+#Imagen1_1 {
     float: right;
+   
 }
 .caja2{
 
