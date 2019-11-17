@@ -58,3 +58,11 @@ body{
     margin-left: 35px;
     margin-right: 15px;
 }
+#footer {
+    float: right;
+}
+
+@font-face{
+    font-family: "Letra Subtitulos",
+    src: (url "");
+}
