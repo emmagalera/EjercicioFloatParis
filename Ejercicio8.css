@@ -9,8 +9,7 @@ img{
     border: 2px solid orange;
 }
 .caja1 {
-     
-
+    height: 160px;
 }
 #Imagen1{
     float: left;
@@ -23,7 +22,14 @@ img{
     margin-left: 10px;
 }
 .caja2{
+    height: 210px;
 
+
+}
+#Imagen_2{
+    float: left;
+    margin-right: 10px;
+    margin-right: 5px;
 }
 .caja3{
 
