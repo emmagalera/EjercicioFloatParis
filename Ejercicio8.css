@@ -78,3 +78,6 @@ hr{
     background-color: rgb(170, 118, 22);
     border: none;
 }
+#nombre{
+    float:right;
+}
