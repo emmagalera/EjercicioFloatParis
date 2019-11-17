@@ -1,12 +1,13 @@
 h1{
    font-size: 50px;
    text-align: center;
-   color: orange;
+   color: rgb(170, 118, 22);
    font-family: "Letra Titulo";
 }
 
 img{
-    border: 2px solid orange;
+    border: 2px solid rgb(170, 118, 22);
+    padding: 4px;
 }
 .caja1 {
     height: 160px;
@@ -51,7 +52,7 @@ img{
 
 }
 h2{
-    color: orange;
+    color: rgb(170, 118, 22);
     font-family: "Letra Subtitulos";
     text-decoration: underline ;
 }
@@ -73,7 +74,7 @@ body{
     src: url("Fuentes/lottepaperfang.ttf");
 }
 hr{
-    height: 3px;
-    background-color: orange;
+    height: 4px;
+    background-color: rgb(170, 118, 22);
     border: none;
 }
