@@ -32,11 +32,29 @@ img{
     margin-right: 5px;
 }
 .caja3{
+    height: 210px;
 
+}
+#Imagen_3{
+    float: right;
+    margin-right: 5px; 
+    margin-left: 10px;
+    
 }
 .caja4{
+    height: 210px;
+}
+#Imagen_4{
+    float: left;
+    margin-right: 10px;
+    margin-right: 5px;
 
 }
-#Imagen1{
-    float: left;
+h2{
+    color: orange;
+}
+body{
+    background-color: rgb(255, 232, 236);
+    margin-left: 35px;
+    margin-right: 15px;
 }
