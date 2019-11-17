@@ -2,7 +2,7 @@ h1{
    font-size: 50px;
    text-align: center;
    color: orange;
-
+   font-family: "Letra Titulo";
 }
 
 img{
@@ -52,6 +52,8 @@ img{
 }
 h2{
     color: orange;
+    font-family: "Letra Subtitulos";
+    text-decoration: underline ;
 }
 body{
     background-color: rgb(255, 232, 236);
@@ -62,7 +64,16 @@ body{
     float: right;
 }
 
+@font-face {
+    font-family: "Letra Subtitulos";
+    src: url("Fuentes/SmallTypeWriting.ttf");
+}
 @font-face{
-    font-family: "Letra Subtitulos",
-    src: (url "");
+    font-family: "Letra Titulo";
+    src: url("Fuentes/lottepaperfang.ttf");
+}
+hr{
+    height: 3px;
+    background-color: orange;
+    border: none;
 }
